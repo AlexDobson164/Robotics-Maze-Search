@@ -16,7 +16,9 @@ In the robot folders, there are 2 files, one of them is a simple .py file for ea
 
 
 
-There is also a video in this repository that is a code walkthrough of my robot. if you can not watch the video, here is a link to it on YouTube -
+There is also a video in this repository that is a code walkthrough of my robot (Robotics Assessment 1). If you are not able to watch the video, here is a link to it on YouTube - https://youtu.be/\_h9W9FHjkgU
+
+
 
 # AI Transparency Statement
 
